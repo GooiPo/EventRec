@@ -1,0 +1,2 @@
+# EventRec
+Event Recommendation System
